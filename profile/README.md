@@ -72,9 +72,9 @@ Delivering cutting-edge solutions that bridge human creativity with machine inte
 ### 🤖 AI Assistant Platform
 *Intelligent conversational systems*
 
-[![GitHub](https://img.shields.io/badge/View-Repository-9D4EDD?style=for-the-badge&logo=github)](https://github.com)
+[![GitHub](https://img.shields.io/badge/View-Repository-9D4EDD?style=for-the-badge&logo=github)](https://github.com/Violet-Site-Systems)
 
-![Stars](https://img.shields.io/github/stars/violet-site-systems?style=social)
+![Status](https://img.shields.io/badge/status-active-success?style=social)
 
 </td>
 <td width="33%" align="center">
@@ -82,9 +82,9 @@ Delivering cutting-edge solutions that bridge human creativity with machine inte
 ### 🌐 Modern Web Framework
 *Next-gen site building tools*
 
-[![GitHub](https://img.shields.io/badge/View-Repository-7209B7?style=for-the-badge&logo=github)](https://github.com)
+[![GitHub](https://img.shields.io/badge/View-Repository-7209B7?style=for-the-badge&logo=github)](https://github.com/Violet-Site-Systems)
 
-![Watchers](https://img.shields.io/github/watchers/violet-site-systems?style=social)
+![Status](https://img.shields.io/badge/status-beta-yellow?style=social)
 
 </td>
 <td width="33%" align="center">
@@ -92,9 +92,9 @@ Delivering cutting-edge solutions that bridge human creativity with machine inte
 ### 📊 Data Visualization Suite
 *Beautiful analytics dashboards*
 
-[![GitHub](https://img.shields.io/badge/View-Repository-560BAD?style=for-the-badge&logo=github)](https://github.com)
+[![GitHub](https://img.shields.io/badge/View-Repository-560BAD?style=for-the-badge&logo=github)](https://github.com/Violet-Site-Systems)
 
-![Forks](https://img.shields.io/github/forks/violet-site-systems?style=social)
+![Status](https://img.shields.io/badge/status-planned-lightgrey?style=social)
 
 </td>
 </tr>

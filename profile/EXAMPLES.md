@@ -395,7 +395,7 @@ Option 3 - Simple:
 ### Statistics & Metrics
 
 ```markdown
-<!-- GitHub Stats -->
+<!-- GitHub Stats (Replace USERNAME with your GitHub username or organization name) -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
 
 <!-- Streak Stats -->
@@ -406,6 +406,8 @@ Option 3 - Simple:
 
 <!-- Activity Graph -->
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github)
+
+<!-- Note: For organizations, use the organization name exactly as it appears in the GitHub URL -->
 ```
 
 ### Mermaid Diagrams
