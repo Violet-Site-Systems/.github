@@ -268,6 +268,8 @@ graph LR
 
 ### **Support Channels:**
 
+> *Note: Update these links with actual URLs when platforms are established*
+
 📧 Email: support@violet-site-systems.dev  
 💬 Discord: [Join our community server](https://discord.gg/violet-site-systems)  
 🐦 Twitter: [@VioletSiteSys](https://twitter.com/violetsitesys)  
@@ -283,6 +285,8 @@ graph LR
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
+║                     ORGANIZATIONAL GOALS                  ║
+╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
 ║  ⭐ 10K+ GitHub Stars Across Projects                    ║
 ║  👥 500+ Active Contributors                             ║
