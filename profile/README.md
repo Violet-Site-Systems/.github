@@ -108,8 +108,8 @@ Delivering cutting-edge solutions that bridge human creativity with machine inte
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Violet-Site-Systems&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?username=Violet-Site-Systems&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakLabel=9D4EDD" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=colleenpridemore&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=colleenpridemore&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakLabel=9D4EDD" width="48%" />
 
 </div>
 
@@ -552,7 +552,7 @@ gantt
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Violet-Site-Systems&label=Profile+Views&color=8B00FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=colleenpridemore&label=Profile+Views&color=8B00FF&style=for-the-badge" alt="Profile Views" />
 
 ---
 
