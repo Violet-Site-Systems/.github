@@ -61,6 +61,53 @@ Delivering cutting-edge solutions that bridge human creativity with machine inte
 
 ---
 
+## 📚 Organization Documentation
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 📋 Organization Policies
+[![Read Docs](https://img.shields.io/badge/Read-Documentation-9D4EDD?style=for-the-badge)](./docs/ORGANIZATION_POLICIES.md)
+
+Repository rules, branch protection, automation, and governance standards
+
+</td>
+<td width="50%" align="center">
+
+### 🤖 Copilot Configuration
+[![Read Docs](https://img.shields.io/badge/Read-Documentation-7209B7?style=for-the-badge)](./docs/COPILOT_CONFIGURATION.md)
+
+GitHub Copilot setup, best practices, and workflow guidelines
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🌿 Sustainability Licenses
+[![Read Docs](https://img.shields.io/badge/Read-Documentation-560BAD?style=for-the-badge)](./docs/SUSTAINABILITY_LICENSES.md)
+
+BGINexus.io sustainability code licenses for ethical technology
+
+</td>
+<td width="50%" align="center">
+
+### 📜 License Library
+[![View Library](https://img.shields.io/badge/View-Library-3C096C?style=for-the-badge)](./licenses/)
+
+Full text of all available sustainability licenses
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🎨 Featured Projects
 
 <div align="center">
