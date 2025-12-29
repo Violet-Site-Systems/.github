@@ -72,7 +72,7 @@ Delivering cutting-edge solutions that bridge human creativity with machine inte
 ### 🤖 AI Assistant Platform
 *Intelligent conversational systems*
 
-[![GitHub](https://img.shields.io/badge/View-Repository-9D4EDD?style=for-the-badge&logo=github)](https://github.com/Violet-Site-Systems)
+[![GitHub](https://img.shields.io/badge/View-Repository-9D4EDD?style=for-the-badge&logo=github)](https://github.com/colleenpridemore)
 
 ![Status](https://img.shields.io/badge/status-active-success?style=social)
 
@@ -82,7 +82,7 @@ Delivering cutting-edge solutions that bridge human creativity with machine inte
 ### 🌐 Modern Web Framework
 *Next-gen site building tools*
 
-[![GitHub](https://img.shields.io/badge/View-Repository-7209B7?style=for-the-badge&logo=github)](https://github.com/Violet-Site-Systems)
+[![GitHub](https://img.shields.io/badge/View-Repository-7209B7?style=for-the-badge&logo=github)](https://github.com/colleenpridemore)
 
 ![Status](https://img.shields.io/badge/status-beta-yellow?style=social)
 
@@ -92,7 +92,7 @@ Delivering cutting-edge solutions that bridge human creativity with machine inte
 ### 📊 Data Visualization Suite
 *Beautiful analytics dashboards*
 
-[![GitHub](https://img.shields.io/badge/View-Repository-560BAD?style=for-the-badge&logo=github)](https://github.com/Violet-Site-Systems)
+[![GitHub](https://img.shields.io/badge/View-Repository-560BAD?style=for-the-badge&logo=github)](https://github.com/colleenpridemore)
 
 ![Status](https://img.shields.io/badge/status-planned-lightgrey?style=social)
 
@@ -108,13 +108,13 @@ Delivering cutting-edge solutions that bridge human creativity with machine inte
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Violet-Site-Systems&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Violet-Site-Systems&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakLabel=9D4EDD" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=colleenpridemore&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=colleenpridemore&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakLabel=9D4EDD" width="48%" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Violet-Site-Systems&theme=react-dark&hide_border=true&bg_color=0D1117&color=9D4EDD&line=7209B7&point=9D4EDD" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=colleenpridemore&theme=react-dark&hide_border=true&bg_color=0D1117&color=9D4EDD&line=7209B7&point=9D4EDD" width="98%" />
 </div>
 
 ---
@@ -552,7 +552,7 @@ gantt
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Violet-Site-Systems&label=Profile+Views&color=8B00FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=colleenpridemore&label=Profile+Views&color=8B00FF&style=for-the-badge" alt="Profile Views" />
 
 ---
 
