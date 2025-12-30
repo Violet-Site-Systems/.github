@@ -61,54 +61,11 @@ Delivering cutting-edge solutions that bridge human creativity with machine inte
 
 ---
 
-## 🎨 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-  
-### 🤖 AI Assistant Platform
-*Intelligent conversational systems*
-
-[![GitHub](https://img.shields.io/badge/View-Repository-9D4EDD?style=for-the-badge&logo=github)](https://github.com/Violet-Site-Systems)
-
-![Status](https://img.shields.io/badge/status-active-success?style=social)
-
-</td>
-<td width="33%" align="center">
-  
-### 🌐 Modern Web Framework
-*Next-gen site building tools*
-
-[![GitHub](https://img.shields.io/badge/View-Repository-7209B7?style=for-the-badge&logo=github)](https://github.com/Violet-Site-Systems)
-
-![Status](https://img.shields.io/badge/status-beta-yellow?style=social)
-
-</td>
-<td width="33%" align="center">
-  
-### 📊 Data Visualization Suite
-*Beautiful analytics dashboards*
-
-[![GitHub](https://img.shields.io/badge/View-Repository-560BAD?style=for-the-badge&logo=github)](https://github.com/Violet-Site-Systems)
-
-![Status](https://img.shields.io/badge/status-planned-lightgrey?style=social)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Violet-Site-Systems&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=colleenpridemore&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Violet-Site-Systems&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakLabel=9D4EDD" width="48%" />
 
 </div>
