@@ -61,20 +61,7 @@ Delivering cutting-edge solutions that bridge human creativity with machine inte
 
 ---
 
-## 📈 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=colleenpridemore&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Violet-Site-Systems&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakLabel=9D4EDD" width="48%" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Violet-Site-Systems&theme=react-dark&hide_border=true&bg_color=0D1117&color=9D4EDD&line=7209B7&point=9D4EDD" width="98%" />
-</div>
-
----
 
 ## 🌟 What We Do
 
@@ -95,59 +82,6 @@ graph LR
 
 </div>
 
-### 🔥 Core Competencies
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🧠 AI & Machine Learning
-- Natural Language Processing
-- Computer Vision Systems
-- Predictive Analytics
-- Deep Learning Models
-- LLM Integration
-
-</td>
-<td width="50%">
-
-#### 💻 Web Development
-- Progressive Web Apps
-- Responsive Design Systems
-- API Architecture
-- Real-time Applications
-- Cloud-Native Solutions
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🔐 Security & Privacy
-- Zero-Trust Architecture
-- End-to-End Encryption
-- GDPR Compliance
-- Security Audits
-- Penetration Testing
-
-</td>
-<td width="50%">
-
-#### 📱 DevOps & CI/CD
-- Automated Deployment
-- Infrastructure as Code
-- Container Orchestration
-- Monitoring & Logging
-- Performance Optimization
-<div align="center">
-
-## 🎯 **ACTIVE DOMAINS**
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
 
 ### 🧬 **AI/ML**
 ```
@@ -236,22 +170,10 @@ Testing Frameworks
 <td align="center" width="33%">
   
 ### 💌 Email
-[hello@violetsystems.tech](mailto:hello@violetsystems.tech)
+[info@violetsitesystems.com](mailto:info@violetsitesystems.com)
 
 </td>
-<td align="center" width="33%">
-  
-### 💼 Business
-[business@violetsystems.tech](mailto:business@violetsystems.tech)
 
-</td>
-<td align="center" width="33%">
-  
-### 🔒 Security
-[security@violetsystems.tech](mailto:security@violetsystems.tech)
-
-</td>
-</tr>
 </table>
 <div align="center">
 
