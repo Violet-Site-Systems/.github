@@ -140,10 +140,10 @@ Testing Frameworks
 
 ### We're always looking for passionate contributors!
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/colleenpridemor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/colleenpridemore)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/colleenpridemore)
 
 </div>
 
@@ -249,72 +249,16 @@ graph LR
 
 ## 🌟 **COMMUNITY & SUPPORT**
 
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-8B00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/orgs/Violet-Site-Systems/discussions)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Questions-FF6C00?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=000000)](https://stackoverflow.com/questions/tagged/violet-site-systems)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://dev.to/violet-site-systems)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-8B00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Violet-Site-Systems/DAC/discussions)
 
-### **Support Channels:**
 
 > *Note: Update these links with actual URLs when platforms are established*
 
-📧 Email: support@violet-site-systems.dev  
-💬 Discord: [Join our community server](https://discord.gg/violet-site-systems)  
-🐦 Twitter: [@VioletSiteSys](https://twitter.com/violetsitesys)  
-📝 Blog: [tech.violet-site-systems.dev](https://tech.violet-site-systems.dev)
+📧 Email: info@violetsitesystems.com  
+📝 Blog: [https://www.violetsitesystems.com/blog](https://www.violetsitesystems.com/blog)
 
 </div>
 
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-![](https://img.shields.io/badge/Projects-50+-9D4EDD?style=for-the-badge)
-![](https://img.shields.io/badge/Contributors-100+-7209B7?style=for-the-badge)
-![](https://img.shields.io/badge/Stars-1K+-560BAD?style=for-the-badge)
-![](https://img.shields.io/badge/Commits-10K+-3C096C?style=for-the-badge)
-
-### 🎖️ Recognition
-
-| 🏅 Award | 📅 Year | 🎯 Category |
-|---------|---------|-------------|
-| Best Open Source Project | 2024 | Innovation |
-| Top AI Implementation | 2024 | Technology |
-| Community Choice Award | 2023 | Collaboration |
-<div align="center">
-
-## 🏆 **ACHIEVEMENTS & RECOGNITION**
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                     ORGANIZATIONAL GOALS                  ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                           ║
-║  ⭐ 10K+ GitHub Stars Across Projects                    ║
-║  👥 500+ Active Contributors                             ║
-║  🔄 5K+ Merged Pull Requests                             ║
-║  🌍 100+ Countries Represented                           ║
-║  📦 1M+ Monthly Package Downloads                        ║
-║  🎯 15+ Open Source Projects                             ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Scalable AI Systems with Modern Architecture
-- 🎨 The Future of Web Design: AI-Powered Interfaces
-- 🔐 Security Best Practices for AI Applications
-- 💡 From Concept to Production: Our Development Journey
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🌈 Color Palette
 
@@ -371,14 +315,12 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ```
 <div align="center">
 
-## 📜 **OPEN SOURCE LICENSES**
+## 📜 **OPEN SOURCE LICENSES and Sustainability AI Governance LICENSES**
 
 <img src="https://img.shields.io/badge/License-MIT-00F7FF?style=for-the-badge&labelColor=000000" alt="MIT License" />
 <img src="https://img.shields.io/badge/License-Apache_2.0-8B00FF?style=for-the-badge&labelColor=000000" alt="Apache License" />
 <img src="https://img.shields.io/badge/License-GPL_3.0-FF006E?style=for-the-badge&labelColor=000000" alt="GPL License" />
 
-**All projects are licensed under OSI-approved licenses**  
-View individual project repositories for specific licensing details
 
 </div>
 
