@@ -249,7 +249,7 @@ graph LR
 
 ## 🌟 **COMMUNITY & SUPPORT**
 
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-8B00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](](https://github.com/Violet-Site-Systems/DAC/discussions))
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-8B00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Violet-Site-Systems/DAC/discussions)
 
 
 > *Note: Update these links with actual URLs when platforms are established*
