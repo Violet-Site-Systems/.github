@@ -255,7 +255,7 @@ graph LR
 > *Note: Update these links with actual URLs when platforms are established*
 
 📧 Email: info@violetsitesystems.com  
-📝 Blog: [https://www.violetsitesystems.com/blog(https://www.violetsitesystems.com/blog)
+📝 Blog: [https://www.violetsitesystems.com/blog](https://www.violetsitesystems.com/blog)
 
 </div>
 
