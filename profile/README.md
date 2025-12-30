@@ -315,7 +315,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ```
 <div align="center">
 
-## 📜 **OPEN SOURCE LICENSES and Sustinability AI Governance LICENSES**
+## 📜 **OPEN SOURCE LICENSES and Sustainability AI Governance LICENSES**
 
 <img src="https://img.shields.io/badge/License-MIT-00F7FF?style=for-the-badge&labelColor=000000" alt="MIT License" />
 <img src="https://img.shields.io/badge/License-Apache_2.0-8B00FF?style=for-the-badge&labelColor=000000" alt="Apache License" />
