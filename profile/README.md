@@ -180,7 +180,6 @@ Testing Frameworks
 ## 💫 **INNOVATION PIPELINE**
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#8B00FF','primaryTextColor':'#fff','primaryBorderColor':'#00F7FF','lineColor':'#00F7FF','secondaryColor':'#FF006E','tertiaryColor':'#00FFB3'}}}%%
 graph LR
     A[Research] -->|Ideation| B[Prototype]
     B -->|Validation| C[Development]
