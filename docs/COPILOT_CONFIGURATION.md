@@ -483,16 +483,13 @@ This configuration is reviewed and updated regularly to incorporate:
 
 **Last Updated**: December 2025  
 **Version**: 1.0  
-**Next Review**: March 2025
+**Next Review**: March 2026
 
 ---
 
 ## 📚 Related Documentation
 
 - [Organization Policies](./ORGANIZATION_POLICIES.md)
-- [Security Policy](../SECURITY.md)
-- [Contributing Guidelines](../CONTRIBUTING.md)
-- [Code Review Guidelines](../CODE_REVIEW.md)
 
 ---
 

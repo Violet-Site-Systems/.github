@@ -357,7 +357,7 @@ These policies are reviewed and updated quarterly. Significant changes are commu
 
 **Last Updated**: December 2025  
 **Version**: 1.0  
-**Next Review**: March 2025
+**Next Review**: March 2026
 
 ---
 
@@ -366,8 +366,6 @@ These policies are reviewed and updated quarterly. Significant changes are commu
 - [Copilot Configuration Guide](./COPILOT_CONFIGURATION.md)
 - [Sustainability Licenses](./SUSTAINABILITY_LICENSES.md)
 - [License Library](../licenses/)
-- [Security Policy](../SECURITY.md)
-- [Contributing Guidelines](../CONTRIBUTING.md)
 
 ---
 
