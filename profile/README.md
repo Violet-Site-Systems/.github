@@ -580,7 +580,7 @@ gantt
 ![Compliance](https://img.shields.io/badge/Compliance-SOC2_Type_II-8B00FF?style=for-the-badge&labelColor=000000)
 
 **Security Policy:** [SECURITY.md](./SECURITY.md)  
-**Report Vulnerabilities:** security@violet-site-systems.dev  
+**Report Vulnerabilities:** security@accessvexel.com  
 **Bug Bounty Program:** [bounty.violet-site-systems.dev](https://bounty.violet-site-systems.dev)
 
 </div>

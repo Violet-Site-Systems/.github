@@ -301,7 +301,7 @@ Closing this PR. To prevent similar suggestions, we've updated our Copilot confi
 
 **Immediate Actions**:
 1. **Do NOT merge or use the code**
-2. **Report the issue**: Comment on the PR or contact security@violet-site-systems.dev
+2. **Report the issue**: Comment on the PR or contact security@accessvexel.com
 3. **Document the problem**: Help improve Copilot by reporting patterns
 
 **Prevention**:

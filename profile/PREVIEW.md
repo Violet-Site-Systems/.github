@@ -261,7 +261,7 @@ Support Channels:
 (Badges in neon colors)
 
 Security Policy: SECURITY.md
-Report Vulnerabilities: security@violet-site-systems.dev
+Report Vulnerabilities: security@accessvexel.com
 Bug Bounty Program: [link]
 ```
 

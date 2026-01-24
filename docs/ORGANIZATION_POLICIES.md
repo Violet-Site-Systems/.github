@@ -178,11 +178,11 @@ All pull requests must pass the following before merging:
 
 ### Vulnerability Reporting
 
-**Security Contact**: [security@violet-site-systems.dev](mailto:security@violet-site-systems.dev)
+**Security Contact**: [security@accessvexel.com](mailto:security@accessvexel.com)
 
 **Reporting Process**:
 1. **Do NOT** open public issues for security vulnerabilities
-2. Email security@violet-site-systems.dev with:
+2. Email security@accessvexel.com with:
    - Description of the vulnerability
    - Steps to reproduce
    - Potential impact assessment
